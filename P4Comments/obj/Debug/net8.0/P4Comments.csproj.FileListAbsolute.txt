@@ -1,0 +1,15 @@
+C:\Users\Wowke\gp24-102-csharp-basics-Munterz\P4Comments\bin\Debug\net8.0\P4Comments.exe
+C:\Users\Wowke\gp24-102-csharp-basics-Munterz\P4Comments\bin\Debug\net8.0\P4Comments.deps.json
+C:\Users\Wowke\gp24-102-csharp-basics-Munterz\P4Comments\bin\Debug\net8.0\P4Comments.runtimeconfig.json
+C:\Users\Wowke\gp24-102-csharp-basics-Munterz\P4Comments\bin\Debug\net8.0\P4Comments.dll
+C:\Users\Wowke\gp24-102-csharp-basics-Munterz\P4Comments\bin\Debug\net8.0\P4Comments.pdb
+C:\Users\Wowke\gp24-102-csharp-basics-Munterz\P4Comments\obj\Debug\net8.0\P4Comments.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wowke\gp24-102-csharp-basics-Munterz\P4Comments\obj\Debug\net8.0\P4Comments.AssemblyInfoInputs.cache
+C:\Users\Wowke\gp24-102-csharp-basics-Munterz\P4Comments\obj\Debug\net8.0\P4Comments.AssemblyInfo.cs
+C:\Users\Wowke\gp24-102-csharp-basics-Munterz\P4Comments\obj\Debug\net8.0\P4Comments.csproj.CoreCompileInputs.cache
+C:\Users\Wowke\gp24-102-csharp-basics-Munterz\P4Comments\obj\Debug\net8.0\P4Comments.sourcelink.json
+C:\Users\Wowke\gp24-102-csharp-basics-Munterz\P4Comments\obj\Debug\net8.0\P4Comments.dll
+C:\Users\Wowke\gp24-102-csharp-basics-Munterz\P4Comments\obj\Debug\net8.0\refint\P4Comments.dll
+C:\Users\Wowke\gp24-102-csharp-basics-Munterz\P4Comments\obj\Debug\net8.0\P4Comments.pdb
+C:\Users\Wowke\gp24-102-csharp-basics-Munterz\P4Comments\obj\Debug\net8.0\P4Comments.genruntimeconfig.cache
+C:\Users\Wowke\gp24-102-csharp-basics-Munterz\P4Comments\obj\Debug\net8.0\ref\P4Comments.dll
