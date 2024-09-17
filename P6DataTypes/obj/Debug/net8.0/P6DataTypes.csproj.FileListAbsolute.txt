@@ -1,0 +1,15 @@
+C:\Users\Wowke\gp24-102-csharp-basics-Munterz\P6DataTypes\bin\Debug\net8.0\P6DataTypes.exe
+C:\Users\Wowke\gp24-102-csharp-basics-Munterz\P6DataTypes\bin\Debug\net8.0\P6DataTypes.deps.json
+C:\Users\Wowke\gp24-102-csharp-basics-Munterz\P6DataTypes\bin\Debug\net8.0\P6DataTypes.runtimeconfig.json
+C:\Users\Wowke\gp24-102-csharp-basics-Munterz\P6DataTypes\bin\Debug\net8.0\P6DataTypes.dll
+C:\Users\Wowke\gp24-102-csharp-basics-Munterz\P6DataTypes\bin\Debug\net8.0\P6DataTypes.pdb
+C:\Users\Wowke\gp24-102-csharp-basics-Munterz\P6DataTypes\obj\Debug\net8.0\P6DataTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wowke\gp24-102-csharp-basics-Munterz\P6DataTypes\obj\Debug\net8.0\P6DataTypes.AssemblyInfoInputs.cache
+C:\Users\Wowke\gp24-102-csharp-basics-Munterz\P6DataTypes\obj\Debug\net8.0\P6DataTypes.AssemblyInfo.cs
+C:\Users\Wowke\gp24-102-csharp-basics-Munterz\P6DataTypes\obj\Debug\net8.0\P6DataTypes.csproj.CoreCompileInputs.cache
+C:\Users\Wowke\gp24-102-csharp-basics-Munterz\P6DataTypes\obj\Debug\net8.0\P6DataTypes.sourcelink.json
+C:\Users\Wowke\gp24-102-csharp-basics-Munterz\P6DataTypes\obj\Debug\net8.0\P6DataTypes.dll
+C:\Users\Wowke\gp24-102-csharp-basics-Munterz\P6DataTypes\obj\Debug\net8.0\refint\P6DataTypes.dll
+C:\Users\Wowke\gp24-102-csharp-basics-Munterz\P6DataTypes\obj\Debug\net8.0\P6DataTypes.pdb
+C:\Users\Wowke\gp24-102-csharp-basics-Munterz\P6DataTypes\obj\Debug\net8.0\P6DataTypes.genruntimeconfig.cache
+C:\Users\Wowke\gp24-102-csharp-basics-Munterz\P6DataTypes\obj\Debug\net8.0\ref\P6DataTypes.dll
