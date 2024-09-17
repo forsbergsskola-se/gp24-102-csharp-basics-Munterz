@@ -1,0 +1,15 @@
+C:\Users\Wowke\gp24-102-csharp-basics-Munterz\p7Input\bin\Debug\net8.0\p7Input.exe
+C:\Users\Wowke\gp24-102-csharp-basics-Munterz\p7Input\bin\Debug\net8.0\p7Input.deps.json
+C:\Users\Wowke\gp24-102-csharp-basics-Munterz\p7Input\bin\Debug\net8.0\p7Input.runtimeconfig.json
+C:\Users\Wowke\gp24-102-csharp-basics-Munterz\p7Input\bin\Debug\net8.0\p7Input.dll
+C:\Users\Wowke\gp24-102-csharp-basics-Munterz\p7Input\bin\Debug\net8.0\p7Input.pdb
+C:\Users\Wowke\gp24-102-csharp-basics-Munterz\p7Input\obj\Debug\net8.0\p7Input.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wowke\gp24-102-csharp-basics-Munterz\p7Input\obj\Debug\net8.0\p7Input.AssemblyInfoInputs.cache
+C:\Users\Wowke\gp24-102-csharp-basics-Munterz\p7Input\obj\Debug\net8.0\p7Input.AssemblyInfo.cs
+C:\Users\Wowke\gp24-102-csharp-basics-Munterz\p7Input\obj\Debug\net8.0\p7Input.csproj.CoreCompileInputs.cache
+C:\Users\Wowke\gp24-102-csharp-basics-Munterz\p7Input\obj\Debug\net8.0\p7Input.sourcelink.json
+C:\Users\Wowke\gp24-102-csharp-basics-Munterz\p7Input\obj\Debug\net8.0\p7Input.dll
+C:\Users\Wowke\gp24-102-csharp-basics-Munterz\p7Input\obj\Debug\net8.0\refint\p7Input.dll
+C:\Users\Wowke\gp24-102-csharp-basics-Munterz\p7Input\obj\Debug\net8.0\p7Input.pdb
+C:\Users\Wowke\gp24-102-csharp-basics-Munterz\p7Input\obj\Debug\net8.0\p7Input.genruntimeconfig.cache
+C:\Users\Wowke\gp24-102-csharp-basics-Munterz\p7Input\obj\Debug\net8.0\ref\p7Input.dll
