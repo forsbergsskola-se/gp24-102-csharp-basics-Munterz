@@ -1,29 +1,30 @@
 ﻿
-/*P90Operators
+//P90Operators
 Console.WriteLine("Give me a number of seconds:");
 int TotalSeconds = int.Parse(Console.ReadLine());
 
 int days = TotalSeconds / 86400;
-TotalSeconds %= 86400;
+int remainingSeconds = TotalSeconds % 86400;
 
-int hours = TotalSeconds / 3600;
-TotalSeconds %= 3600;
+int hours = remainingSeconds / 3600;
+remainingSeconds %= 3600;
 
-int minutes = TotalSeconds / 60;
-int seconds = TotalSeconds % 60;
+int minutes = remainingSeconds / 60;
+int seconds = remainingSeconds % 60;
 
 Console.WriteLine($"Seconds: {seconds}");
 Console.WriteLine($"Minutes: {minutes}");
 Console.WriteLine($"Hours: {hours}");
 Console.WriteLine($"Days: {days}");
-    
+
 Console.WriteLine($"{days}.{hours:D2}:{minutes:D2}:{seconds:D2}");
 
 double TotalDays = (double)TotalSeconds / 86400;
-Console.WriteLine($"In total, that's {days + TotalDays} Days.");
+Console.WriteLine($"In total, that's {TotalDays} Days.");
 
 
-//P09_01
+
+/*P09_01
 Console.WriteLine ("Enter speed in km/h:");
 float KmPerHour = float.Parse(Console.ReadLine());
 float MeterPerSecond = KmPerHour / 3.6f;
@@ -89,7 +90,7 @@ float side1 = float.Parse(Console.ReadLine());
 float side2 = float.Parse(Console.ReadLine());
 float hypotenuse = (float)Math.Sqrt(Math.Pow(side1, 2) + Math.Pow(side2, 2));
 Console.WriteLine(hypotenuse);
-*/
+
 
 //P09_10
 Console.WriteLine("Enter seconds");
@@ -97,4 +98,4 @@ int inputSeconds = int.Parse(Console.ReadLine());
 int minutes = inputSeconds / 60;
 int seconds = inputSeconds % 60;
 Console.WriteLine($"{minutes} minute(s) and {seconds} second(s)");
-
+*/
