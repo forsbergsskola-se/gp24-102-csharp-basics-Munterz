@@ -1,0 +1,15 @@
+C:\Users\Wowke\gp24-102-csharp-basics-Munterz\P12Random\bin\Debug\net8.0\P12Random.exe
+C:\Users\Wowke\gp24-102-csharp-basics-Munterz\P12Random\bin\Debug\net8.0\P12Random.deps.json
+C:\Users\Wowke\gp24-102-csharp-basics-Munterz\P12Random\bin\Debug\net8.0\P12Random.runtimeconfig.json
+C:\Users\Wowke\gp24-102-csharp-basics-Munterz\P12Random\bin\Debug\net8.0\P12Random.dll
+C:\Users\Wowke\gp24-102-csharp-basics-Munterz\P12Random\bin\Debug\net8.0\P12Random.pdb
+C:\Users\Wowke\gp24-102-csharp-basics-Munterz\P12Random\obj\Debug\net8.0\P12Random.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wowke\gp24-102-csharp-basics-Munterz\P12Random\obj\Debug\net8.0\P12Random.AssemblyInfoInputs.cache
+C:\Users\Wowke\gp24-102-csharp-basics-Munterz\P12Random\obj\Debug\net8.0\P12Random.AssemblyInfo.cs
+C:\Users\Wowke\gp24-102-csharp-basics-Munterz\P12Random\obj\Debug\net8.0\P12Random.csproj.CoreCompileInputs.cache
+C:\Users\Wowke\gp24-102-csharp-basics-Munterz\P12Random\obj\Debug\net8.0\P12Random.sourcelink.json
+C:\Users\Wowke\gp24-102-csharp-basics-Munterz\P12Random\obj\Debug\net8.0\P12Random.dll
+C:\Users\Wowke\gp24-102-csharp-basics-Munterz\P12Random\obj\Debug\net8.0\refint\P12Random.dll
+C:\Users\Wowke\gp24-102-csharp-basics-Munterz\P12Random\obj\Debug\net8.0\P12Random.pdb
+C:\Users\Wowke\gp24-102-csharp-basics-Munterz\P12Random\obj\Debug\net8.0\P12Random.genruntimeconfig.cache
+C:\Users\Wowke\gp24-102-csharp-basics-Munterz\P12Random\obj\Debug\net8.0\ref\P12Random.dll
