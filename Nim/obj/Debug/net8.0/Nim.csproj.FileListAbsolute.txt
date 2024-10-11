@@ -1,0 +1,15 @@
+C:\Users\Wowke\gp24-102-csharp-basics-Munterz\Nim\bin\Debug\net8.0\Nim.exe
+C:\Users\Wowke\gp24-102-csharp-basics-Munterz\Nim\bin\Debug\net8.0\Nim.deps.json
+C:\Users\Wowke\gp24-102-csharp-basics-Munterz\Nim\bin\Debug\net8.0\Nim.runtimeconfig.json
+C:\Users\Wowke\gp24-102-csharp-basics-Munterz\Nim\bin\Debug\net8.0\Nim.dll
+C:\Users\Wowke\gp24-102-csharp-basics-Munterz\Nim\bin\Debug\net8.0\Nim.pdb
+C:\Users\Wowke\gp24-102-csharp-basics-Munterz\Nim\obj\Debug\net8.0\Nim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wowke\gp24-102-csharp-basics-Munterz\Nim\obj\Debug\net8.0\Nim.AssemblyInfoInputs.cache
+C:\Users\Wowke\gp24-102-csharp-basics-Munterz\Nim\obj\Debug\net8.0\Nim.AssemblyInfo.cs
+C:\Users\Wowke\gp24-102-csharp-basics-Munterz\Nim\obj\Debug\net8.0\Nim.csproj.CoreCompileInputs.cache
+C:\Users\Wowke\gp24-102-csharp-basics-Munterz\Nim\obj\Debug\net8.0\Nim.sourcelink.json
+C:\Users\Wowke\gp24-102-csharp-basics-Munterz\Nim\obj\Debug\net8.0\Nim.dll
+C:\Users\Wowke\gp24-102-csharp-basics-Munterz\Nim\obj\Debug\net8.0\refint\Nim.dll
+C:\Users\Wowke\gp24-102-csharp-basics-Munterz\Nim\obj\Debug\net8.0\Nim.pdb
+C:\Users\Wowke\gp24-102-csharp-basics-Munterz\Nim\obj\Debug\net8.0\Nim.genruntimeconfig.cache
+C:\Users\Wowke\gp24-102-csharp-basics-Munterz\Nim\obj\Debug\net8.0\ref\Nim.dll

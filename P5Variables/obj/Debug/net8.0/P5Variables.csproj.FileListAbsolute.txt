@@ -1,0 +1,15 @@
+C:\Users\Wowke\gp24-102-csharp-basics-Munterz\P5Variables\obj\Debug\net8.0\P5Variables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wowke\gp24-102-csharp-basics-Munterz\P5Variables\obj\Debug\net8.0\P5Variables.AssemblyInfoInputs.cache
+C:\Users\Wowke\gp24-102-csharp-basics-Munterz\P5Variables\obj\Debug\net8.0\P5Variables.AssemblyInfo.cs
+C:\Users\Wowke\gp24-102-csharp-basics-Munterz\P5Variables\obj\Debug\net8.0\P5Variables.csproj.CoreCompileInputs.cache
+C:\Users\Wowke\gp24-102-csharp-basics-Munterz\P5Variables\obj\Debug\net8.0\P5Variables.sourcelink.json
+C:\Users\Wowke\gp24-102-csharp-basics-Munterz\P5Variables\bin\Debug\net8.0\P5Variables.exe
+C:\Users\Wowke\gp24-102-csharp-basics-Munterz\P5Variables\bin\Debug\net8.0\P5Variables.deps.json
+C:\Users\Wowke\gp24-102-csharp-basics-Munterz\P5Variables\bin\Debug\net8.0\P5Variables.runtimeconfig.json
+C:\Users\Wowke\gp24-102-csharp-basics-Munterz\P5Variables\bin\Debug\net8.0\P5Variables.dll
+C:\Users\Wowke\gp24-102-csharp-basics-Munterz\P5Variables\bin\Debug\net8.0\P5Variables.pdb
+C:\Users\Wowke\gp24-102-csharp-basics-Munterz\P5Variables\obj\Debug\net8.0\P5Variables.dll
+C:\Users\Wowke\gp24-102-csharp-basics-Munterz\P5Variables\obj\Debug\net8.0\refint\P5Variables.dll
+C:\Users\Wowke\gp24-102-csharp-basics-Munterz\P5Variables\obj\Debug\net8.0\P5Variables.pdb
+C:\Users\Wowke\gp24-102-csharp-basics-Munterz\P5Variables\obj\Debug\net8.0\P5Variables.genruntimeconfig.cache
+C:\Users\Wowke\gp24-102-csharp-basics-Munterz\P5Variables\obj\Debug\net8.0\ref\P5Variables.dll

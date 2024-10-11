@@ -1,0 +1,15 @@
+C:\Users\Wowke\gp24-102-csharp-basics-Munterz\P10Boolean\bin\Debug\net8.0\P10Boolean.exe
+C:\Users\Wowke\gp24-102-csharp-basics-Munterz\P10Boolean\bin\Debug\net8.0\P10Boolean.deps.json
+C:\Users\Wowke\gp24-102-csharp-basics-Munterz\P10Boolean\bin\Debug\net8.0\P10Boolean.runtimeconfig.json
+C:\Users\Wowke\gp24-102-csharp-basics-Munterz\P10Boolean\bin\Debug\net8.0\P10Boolean.dll
+C:\Users\Wowke\gp24-102-csharp-basics-Munterz\P10Boolean\bin\Debug\net8.0\P10Boolean.pdb
+C:\Users\Wowke\gp24-102-csharp-basics-Munterz\P10Boolean\obj\Debug\net8.0\P10Boolean.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wowke\gp24-102-csharp-basics-Munterz\P10Boolean\obj\Debug\net8.0\P10Boolean.AssemblyInfoInputs.cache
+C:\Users\Wowke\gp24-102-csharp-basics-Munterz\P10Boolean\obj\Debug\net8.0\P10Boolean.AssemblyInfo.cs
+C:\Users\Wowke\gp24-102-csharp-basics-Munterz\P10Boolean\obj\Debug\net8.0\P10Boolean.csproj.CoreCompileInputs.cache
+C:\Users\Wowke\gp24-102-csharp-basics-Munterz\P10Boolean\obj\Debug\net8.0\P10Boolean.sourcelink.json
+C:\Users\Wowke\gp24-102-csharp-basics-Munterz\P10Boolean\obj\Debug\net8.0\P10Boolean.dll
+C:\Users\Wowke\gp24-102-csharp-basics-Munterz\P10Boolean\obj\Debug\net8.0\refint\P10Boolean.dll
+C:\Users\Wowke\gp24-102-csharp-basics-Munterz\P10Boolean\obj\Debug\net8.0\P10Boolean.pdb
+C:\Users\Wowke\gp24-102-csharp-basics-Munterz\P10Boolean\obj\Debug\net8.0\P10Boolean.genruntimeconfig.cache
+C:\Users\Wowke\gp24-102-csharp-basics-Munterz\P10Boolean\obj\Debug\net8.0\ref\P10Boolean.dll
